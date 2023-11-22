@@ -88,6 +88,7 @@ cc_library(
         "@com_google_absl//absl/types:optional",
         "@highwayhash//:hh_types",
         "@highwayhash//:highwayhash_dynamic",
+        "@highwayhash//:highwayhash",
         "@highwayhash//:instruction_sets",
     ],
 )
